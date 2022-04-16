@@ -3,7 +3,6 @@ public class PrintNoValue {
         Node obj=new Node();
         System.out.println(obj.x);
         System.out.println(obj.next);
-
     }
 }
 class Node{
