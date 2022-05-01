@@ -9,3 +9,4 @@ class Node{
     int x;
     Node next;
 }
+//This Code is Contributed by Vivek Kumar Gupta
