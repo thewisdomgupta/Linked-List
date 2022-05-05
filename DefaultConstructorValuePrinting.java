@@ -1,3 +1,4 @@
+//Print Default Constructor's Default Value
 public class DefaultConstructorValuePrinting {
     public static void main(String[] args) {
         Node obj = new Node();
@@ -9,4 +10,5 @@ public class DefaultConstructorValuePrinting {
         int x;
         Node next;
     }
+//This Code is Contributed by Vivek Kumar Gupta
 
