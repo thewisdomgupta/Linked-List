@@ -11,4 +11,3 @@ public class DefaultConstructorValuePrinting {
         Node next;
     }
 //This Code is Contributed by Vivek Kumar Gupta
-
