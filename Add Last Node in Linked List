@@ -36,6 +36,7 @@ public class AddLastLinkedList {
             }
         }
     }
+    
     public static void addLast(Node head, int k){
         Node temp = head;
         if(temp==null){
