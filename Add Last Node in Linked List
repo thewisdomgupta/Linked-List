@@ -51,6 +51,7 @@ public class AddLastLinkedList {
     }
 
 }
+
 class Node{
     int x;
     Node next;
@@ -61,4 +62,3 @@ class Node{
 
     }
 }
-//This code is contributed by Vivek Kumar Gupta
